@@ -1,7 +1,7 @@
 # MDPI-LIFE
 This software was developed for the article entitled "Prediction of Pseudomonas spp. Population in Food Products and Culture Media Using Machine Learning-Based Regression Methods" published in Life (MDPI) https://www.mdpi.com/journal/life.
 
-Tarlak and Yucel (2023)
+Tarlak and Yücel (2023)
 
 To install software:
 
